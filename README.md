@@ -1,5 +1,3 @@
-# mnist-digit-recognizer
-I'll update the README to reflect the use of the LeNet-5 model:
 
 ---
 
